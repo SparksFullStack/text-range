@@ -1,0 +1,11 @@
+{
+  "name": "text-range",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SparksFullStack/text-range.git",
+  "author": "SparksFullStack <csparks@antioch.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "lettering": "^0.4.1"
+  }
+}
